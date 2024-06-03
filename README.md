@@ -33,7 +33,7 @@ insights gained
 
 insights gained
 
-###CORRELATION BETWEEN AGE AND SALARY : To investigate the correlation between age and salary, I chose the best opttion, that is scatter plot. From that visualization , I could surely gained the relation between them.
+###CORRELATION BETWEEN AGE AND SALARY : To investigate the correlation between age and salary, I chose the best option, that is scatter plot. From that visualization , I could surely gained the relation between them.
 
 insights gained
 
