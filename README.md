@@ -17,7 +17,7 @@ Analysis Tasks:
 
 * Preprocessing the data set for data consistency and integrety.
 
-###TEAM DISTRIBUTION : The no. of employees within each team and percentage split of employees in each team relative to the total no. of employees are found. A pie chart named "employee distribution by team" is added for easier findings.
+###TEAM DISTRIBUTION : The no. of employees within each team and percentage split of employees in each team relative to the total no. of employees are counted. A bar graph named "Employee Distribution by Team" and a pie chart named "Percentage of Employee Distribution by Team" are added for easier findings.
 
 * insights gained
 
